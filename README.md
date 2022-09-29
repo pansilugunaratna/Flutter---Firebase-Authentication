@@ -1,10 +1,9 @@
 # flutter_application_firebase_authentication
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Create a flutter project and open the lib directory. Copy the dart files from this lib directory.
 
 A few resources to get you started if this is your first Flutter project:
 
